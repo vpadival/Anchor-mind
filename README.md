@@ -83,6 +83,6 @@ Anchor Mind offers **fast, reliable, and affordable emotional support**, empower
 
 ## 👥 Contributors
 - Developed by Vachan Padival, Varuni Kulkuarni and Swati Sadalagi from **Team Anchor Mind**  
-- B.N.M. Institute of Technology, Bengaluru  
+-    -B.N.M. Institute of Technology, Bengaluru  
 
 ---
